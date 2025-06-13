@@ -1,0 +1,12 @@
+{
+    "name": "mysql-mcp-server",
+    "version": "1.0.0",
+    "description": "MySQL MCP Server Configuration",
+    "config": {
+        "MYSQL_HOST": "localhost",
+        "MYSQL_PORT": 3306,
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": "root",
+        "MYSQL_DATABASE": "your_database"
+    }
+}
